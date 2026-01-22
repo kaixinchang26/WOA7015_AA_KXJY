@@ -4,6 +4,7 @@ Authors
 Chang Kai Xin (23109141)
 Yoong Jia Yin (24065194)
 
+https://colab.research.google.com/drive/18VOe4z5kwiUbCZ4P2AWi02vbKE0s3P0l?usp=sharing
 ----
 A comparative study of CNN-LSTM baseline and Transformer-based (ViT + ClinicalBERT) architectures for Medical Visual Question Answering using the VQA-RAD dataset.
 
